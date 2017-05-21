@@ -36,3 +36,10 @@ div a {
 h2 + h3 {
     color:aqua;
 }
+
+/* Selektor rodzeństwa */
+h4 ~ p {
+    color: crimson;
+}
+
+
