@@ -47,7 +47,7 @@ ul > li:not(.last){
 }
 
 /* Selektor kolejnego elementu potomnego */
-ul > ol:nth-child(3,4) {
-    color:darkmagenta
+ul > ol:nth-child(2n+0) {
+    color:lightskyblue
 }
 
