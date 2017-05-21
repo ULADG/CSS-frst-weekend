@@ -16,6 +16,6 @@ p {
     
         
 /*Łączenie selektorów*/
-a, span, div, {
+a, span, div {
     color: red;
 }
