@@ -31,3 +31,8 @@ div a {
     color: deeppink;
     
 }
+
+/* Selektor bliskiego rodzeństwa */
+h2 + h3 {
+    color:aqua;
+}
