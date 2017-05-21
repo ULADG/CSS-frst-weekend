@@ -1,21 +1,21 @@
 /*selektor znacznika */
 p {
-    color: orange;
+    color: red;
 }
 
 /* Selektor id */
 #paragraph {
-    color: blue;
+    color: brown;
         
 }
 
 /*selektor klasy */
     .aaa
-{color: green;
+{color: blue;
 }
     
         
 /*Łączenie selektorów*/
 a, span, div {
-    color: red;
+    color: lawngreen;
 }
