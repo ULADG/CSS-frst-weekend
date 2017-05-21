@@ -11,7 +11,11 @@ p {
 
 /*selektor klasy */
     .aaa
-{color: blue;
+{color: green;
 }
     
         
+/*Łączenie selektorów*/
+a, span, div, {
+    color: red;
+}
