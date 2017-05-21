@@ -41,5 +41,8 @@ h2 + h3 {
 h4 ~ p {
     color: crimson;
 }
-
+/* Slelektor wykluczający */
+ul > li:not(.last){
+    color: chartreuse;
+}
 
