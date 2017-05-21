@@ -24,3 +24,10 @@ a, span, div {
 li > a {
     color: yellow;
 }
+
+/* selektor elementów potomnych */
+
+div a {
+    color: deeppink;
+    
+}
