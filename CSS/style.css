@@ -46,3 +46,8 @@ ul > li:not(.last){
     color: chartreuse;
 }
 
+/* Selektor kolejnego elementu potomnego */
+ul > ol:nth-child(3,4) {
+    color:darkmagenta
+}
+
