@@ -19,3 +19,8 @@ p {
 a, span, div {
     color: lawngreen;
 }
+
+/* Selektor bezpośredniego elementu potomnego */
+li > a {
+    color: yellow;
+}
