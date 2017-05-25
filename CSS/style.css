@@ -47,7 +47,10 @@ ul > li:not(.last){
 }
 
 /* Selektor kolejnego elementu potomnego */
-ol > li:nth-child(2n+0) {
-    color:lightskyblue
+ol > li:nth-child(4n+1) {
+    color:lightskyblue;
+        
 }
-
+div {
+    position: relative;
+}
